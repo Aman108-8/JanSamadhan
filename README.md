@@ -74,8 +74,7 @@ JanSahyog/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/Aman108-8/JanSamadhan.git
 ```
 
 ### 2. Run the Backend
