@@ -1,0 +1,46 @@
+# =========================
+# React JSFrontend
+# =========================
+JanSahyog/.vscode
+
+JanSahyog/JSFrontend/node_modules/
+JanSahyog/JSFrontend/dist/
+JanSahyog/JSFrontend/build/
+JanSahyog/JSFrontend/.env
+JanSahyog/JSFrontend/.env.*
+
+# Logs
+JanSahyog/JSFrontend/npm-debug.log*
+JanSahyog/JSFrontend/yarn-debug.log*
+JanSahyog/JSFrontend/yarn-error.log*
+
+# =========================
+# Spring Boot Backend
+# =========================
+JanSahyog/JSBackend/target/
+JanSahyog/JSBackend/.mvn/
+JanSahyog/JSBackend/.idea/
+JanSahyog/JSBackend/*.iml
+JanSahyog/JSBackend/images/
+JanSahyog/JSBackend/uploads/
+
+# Environment files
+JanSahyog/JSBackend/.env
+JanSahyog/JSBackend/application-local.properties
+
+# =========================
+# OS / Editor Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# =========================
+# Misc
+# =========================
+*.log
